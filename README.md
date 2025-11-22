@@ -30,7 +30,7 @@ I build data products that answer business questions and ship ML models that are
 
 ## GitHub Stats & Activity
 - Active projects: **7** production-focused repos
-- Latest update: *(replace with date of last push)*
+  
 
 ---
 
