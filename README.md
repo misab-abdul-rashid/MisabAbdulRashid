@@ -1,6 +1,6 @@
 # Misab Abdul Rashid — Data Analyst | Data Scientist | ML Engineer
 
-**Location:** Kochi, India • **Email:** misababdulrashid2002@gmail.com • **LinkedIn:** <your-linkedin-url>
+**Location:** Kochi, India • **Email:** misababdulrashid2002@gmail.com • **LinkedIn:** www.linkedin.com/in/mis-abark
 
 ---
 
